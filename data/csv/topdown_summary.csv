@@ -1,0 +1,2 @@
+total_candidates,dia_count,dda_or_unspecified_count,has_sdrf_filename_count,has_annotated_sdrf_count,has_sdrf_file_verified_count,has_complete_sdrf_count,sdrf_checked_count,enriched_count,total_size_bytes,total_size_tb,mean_size_bytes_per_project,has_publication_title_count,count_e_coli,count_human,count_mouse,count_yeast
+1003,16,987,262,53,262,258,262,1003,43514275804841,39.57600329598881,43384123434.537384,891,70,686,245,44
